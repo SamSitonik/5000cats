@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Cinzel:700,900&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Cinzel, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(176, 194, 194);
+}
+
+body {
+  padding-top: 10px;
+  padding-bottom: 75px;
+}
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  background: #eeeeee;
+}
